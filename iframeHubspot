@@ -35,19 +35,8 @@
           "width": 890,
           "height": 748,
           "uri": "https://tools.hubteam.com/integrations-iframe-test-app",
-          "label": "Edit"
-        },
-        {
-          "type": "CONFIRMATION_ACTION_HOOK",
-          "confirmationMessage": "Are you sure you want to delete this ticket?",
-          "confirmButtonText": "Yes",
-          "cancelButtonText": "No",
-          "httpMethod": "DELETE",
-          "associatedObjectProperties": [
-            "protected_account"
-          ],
-          "uri": "https://api.hubapi.com/linked-sales-objects-test-application/v1/actions/demo-ticket/988",
-          "label": "Delete"
+          "label": "Create Subscription"
         }
+        
       ]
     }
